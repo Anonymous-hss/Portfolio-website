@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.1f5f59cf.css",
+    "main.js": "/Portfolio-website/static/js/main.14cfb1ca.js",
+    "static/media/theFreshCup.png": "/Portfolio-website/static/media/theFreshCup.75808a45ac51eb89c59b.png",
+    "static/media/image.png": "/Portfolio-website/static/media/image.52ac9efe8b265104e731.png",
+    "static/media/smartContract.png": "/Portfolio-website/static/media/smartContract.f0b5604bf8a41b3cbb4e.png",
+    "static/media/cybs.png": "/Portfolio-website/static/media/cybs.dc5f9e93df2dd0577eb9.png",
+    "static/media/python.png": "/Portfolio-website/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/react.png": "/Portfolio-website/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/database.png": "/Portfolio-website/static/media/database.96af83e68e3b32fb2dd7.png",
+    "static/media/c-.png": "/Portfolio-website/static/media/c-.24a8f93854ab092f17a7.png",
+    "static/media/linkedIn.png": "/Portfolio-website/static/media/linkedIn.367e73f523d32c24d9df.png",
+    "static/media/lo.png": "/Portfolio-website/static/media/lo.ca66b637045aecd8fffd.png",
+    "static/media/java.png": "/Portfolio-website/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/coding.png": "/Portfolio-website/static/media/coding.c3d466a448edefc637b1.png",
+    "static/media/css.png": "/Portfolio-website/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/Portfolio-website/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/ui-design.png": "/Portfolio-website/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Portfolio-website/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.1f5f59cf.css.map": "/Portfolio-website/static/css/main.1f5f59cf.css.map",
+    "main.14cfb1ca.js.map": "/Portfolio-website/static/js/main.14cfb1ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f5f59cf.css",
+    "static/js/main.14cfb1ca.js"
+  ]
+}
